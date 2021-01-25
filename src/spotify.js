@@ -1,6 +1,6 @@
 export const authEndpoint = "https://accounts.spotify.com/authorize";
 
-const redirectUri = "http://localhost:3000/";
+const redirectUri = "https://spotify-aminos.netlify.app/";
 
 const clientId = "6d2743089a454805a3269fbdc27cb8d1";
 
