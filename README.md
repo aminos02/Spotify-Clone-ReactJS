@@ -1,4 +1,4 @@
-![alt text](https://drive.google.com/file/d/1pGBkZY1jZFrVWj9Pb1Xl4eUVeIvNGTiD/view?usp=sharing)
+![alt text](https://github.com/aminos02/Spotify-Clone-ReactJS/main/spot1.png)
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
