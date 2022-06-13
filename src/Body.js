@@ -13,7 +13,7 @@ function Body({ spotify }) {
     <div className="body">
       <Header />
       <div className="body_info">
-        <img className="body_img" src={discover_weekly?.images[0].url} alt="" />
+        <img className="body_img" src={discover_weekly?.images[0]?.url} alt="" />
         <div className="body_infotext">
           <strong>PLAYLIST</strong>
           <h2>Discover Weekly</h2>
@@ -26,7 +26,7 @@ function Body({ spotify }) {
           <FavoriteIcon fontSize="large" />
           <MoreHorizIcon />
         </div>
-        {discover_weekly?.tracks.items.map((item) => (
+        {discover_weekly && discover_weekly?.tracks?.items?.map((item) => (
           <SongRow track={item.track} />
         ))}
       </div>
