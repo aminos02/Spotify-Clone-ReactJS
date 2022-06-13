@@ -1,5 +1,6 @@
 ![alt text](https://github.com/aminos02/Spotify-Clone-ReactJS/blob/main/spot1.png)
 ![alt text](https://github.com/aminos02/Spotify-Clone-ReactJS/blob/main/spot2.png)
+<img src="https://github.com/aminos02/assets/blob/main/spotify.png?raw=true"/>
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
